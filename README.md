@@ -3,12 +3,14 @@
 It would be nice if GitHub published a list of shortcut keys for their desktop apps but since they don't, here's what works as of 2017-04-24.
 
 ## Windows
-- `a` - add repro
-- `n` - new branch
+- `` ` `` - (backtick) open shell (alias `ctrl` + `shift` + `~` for when you are in a text field)
+- `a` - add repo
 - `b` - branches
+- `n` - new branch
 - `t` - tools
+- `alt` + `s` - sync branch
 - `ctrl`+`tab` - switch between changes and history
-- `F5` - refresh
+- `F5` - refresh all git data
 
 ## Contributing Guidelines
 
